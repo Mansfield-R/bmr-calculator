@@ -3,8 +3,6 @@
 ## About
 This is my first project in React and one that is designed to calculate your Basal Metabolic Rate. Your BMR rate is used to determine what kind of caloric deficit or surplus you need to be in to lose/gain weight. 
 
----
-
 ## To-Do:
 - [x] Set up intial structure of project.
 - [ ] Get every component to Render on the page.
